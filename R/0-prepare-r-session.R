@@ -29,7 +29,8 @@ pkgs <- c(
         "rgdal",
         "rgeos",
         "maptools",
-        "eurostat"
+        "eurostat",
+        "tricolore"
 )
 
 
@@ -44,11 +45,6 @@ if(!sum(!p_isinstalled(pkgs))==0){
 
 # load the packages
 p_load(pkgs, character.only = TRUE)
-
-
-# install and load tricolore package
-p_install_version_gh("jschoeley/tricolore", "1.0.3")
-library(tricolore)
 
 # get Roboto Consensed font -- called later as myfont
 import_roboto_condensed()

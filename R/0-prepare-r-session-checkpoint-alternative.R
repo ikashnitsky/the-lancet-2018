@@ -56,11 +56,7 @@ library(rgdal)          # deal with shapefiles
 library(rgeos)
 library(maptools)
 library(pacman)         # deal with packages
-
-
-# install and load tricolore package
-p_install_version_gh("jschoeley/tricolore", "1.0.3")
-library(tricolore)
+library(tricolore)      # tricolore package
 
 # get Roboto Consensed font -- called later as myfont
 import_roboto_condensed()
