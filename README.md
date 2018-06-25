@@ -9,7 +9,7 @@ Full text of the paper is available [here][text].
 
 To replicate the map, follow the instructions in "R/master-script.R" and, of course, feel free to explore in depth the chunks of code in "R" directory. 
 
-If you have any questions, feel free to contact me: ilya.kashnitsky@gmail.com. For the in-depth questions about [`tricolore`][tri] please contact Jonas: 	jschoeley@gmail.com.
+If you have any questions, feel free to contact me: ilya.kashnitsky@gmail.com. For the questions about [`tricolore`][tri] please contact Jonas: jschoeley@gmail.com.
 
 Folow us on Twitter: [@ikahhnitsky][ik], [@jschoeley][js].
 
@@ -39,6 +39,7 @@ The names of the scripts are quite indicative, and each script is reasonably com
  - [**My PhD project -- Regional demographic convergence in Europe**][osf]
  - [Blog post on the first version of the map presented at Rostock Retreat Visualization in June 2017][post]
  - [Paper (Schöley & Willekens 2017) with the initial ideas for tricolore package][demres17]
+ - [AN example of ternary colorcoding used to visualize cause-of-death data][dr18]
 
 
 
@@ -47,3 +48,4 @@ The names of the scripts are quite indicative, and each script is reasonably com
 [osf]: https://osf.io/d4hjx/
 [post]: https://ikashnitsky.github.io/2017/colorcoded-map/
 [demres17]: https://doi.org/10.4054/DemRes.2017.36.21
+[dr18]: https://github.com/ikashnitsky/demres-2018-geofacet
