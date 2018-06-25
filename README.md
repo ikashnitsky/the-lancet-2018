@@ -15,7 +15,7 @@ Folow us on Twitter: [@ikahhnitsky][ik], [@jschoeley][js].
 
 
 [f1]: https://github.com/ikashnitsky/the-lancet-2018/blob/master/colorcoded-map-ikashnitsky-jschoeley.png
-[text]: https://osf.io/w8hze/
+[text]: https://osf.io/zac5x/
 [ik]: https://twitter.com/ikashnitsky
 [js]: https://twitter.com/jschoeley
 [tri]: https://github.com/jschoeley/tricolore
