@@ -9,7 +9,7 @@ Full text of the paper is available [here][text].
 
 To replicate the map, follow the instructions in "R/master-script.R" and, of course, feel free to explore in depth the chunks of code in "R" directory. 
 
-If you have any questions, feel free to contact me: ilya.kashnitsky@gmail.com
+If you have any questions, feel free to contact me: ilya.kashnitsky@gmail.com. For the in-depth questions about [`tricolore`][tri] please contact Jonas: 	jschoeley@gmail.com.
 
 Folow us on Twitter: [@ikahhnitsky][ik], [@jschoeley][js].
 
@@ -18,6 +18,7 @@ Folow us on Twitter: [@ikahhnitsky][ik], [@jschoeley][js].
 [text]: https://osf.io/w8hze/
 [ik]: https://twitter.com/ikashnitsky
 [js]: https://twitter.com/jschoeley
+[tri]: https://github.com/jschoeley/tricolore
 
 ***
 
