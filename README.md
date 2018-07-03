@@ -1,6 +1,4 @@
-# Regional population structures at a glance
-
-> Kashnitsky, I., & Schöley, J. (forthcoming). Regional population structures at a glance. The Lancet.
+# Kashnitsky, I., & Schöley, J. (forthcoming). Regional population structures at a glance. The Lancet.
 
 [![][f1]][f1]
 
@@ -14,7 +12,7 @@ If you have any questions, feel free to contact me: ilya.kashnitsky@gmail.com. F
 Folow us on Twitter: [@ikahhnitsky][ik], [@jschoeley][js].
 
 
-[f1]: https://github.com/ikashnitsky/the-lancet-2018/blob/master/colorcoded-map-ikashnitsky-jschoeley.png
+[f1]: https://i.imgur.com/OFFShqF.png
 [text]: https://osf.io/zac5x/
 [ik]: https://twitter.com/ikashnitsky
 [js]: https://twitter.com/jschoeley
