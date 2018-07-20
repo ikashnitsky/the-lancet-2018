@@ -3,7 +3,7 @@
 [![][f1]][f1]
 
 
-Full text of the paper is available [here][text]. ([OSF][osf])
+Full text of the paper is available [here][doi]. ([OSF][osf])
 
 To replicate the map, follow the instructions in "R/master-script.R" and, of course, feel free to explore in depth the chunks of code in "R" directory. 
 
