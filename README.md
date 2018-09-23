@@ -1,3 +1,7 @@
+[![doi](https://img.shields.io/badge/DOI-10.1016%2FS0140--6736(18)31194--2-lightgrey.svg?style=for-the-badge)][doi]
+[![osf](https://img.shields.io/badge/osf-zac5x-lightgrey.svg?style=for-the-badge)][osf]
+
+
 # Kashnitsky, I., & Schöley, J. (2018). Regional population structures at a glance. _The Lancet_, 392(10143), 209–210. [https://doi.org/10.1016/S0140-6736(18)31194-2][doi]
 
 [![][f1]][f1]
