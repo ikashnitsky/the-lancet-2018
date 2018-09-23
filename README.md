@@ -13,7 +13,7 @@ To replicate the map, follow the instructions in "R/master-script.R" and, of cou
 
 If you have any questions, feel free to contact me: ilya.kashnitsky@gmail.com. For the questions about [`tricolore`][tri] please contact Jonas: jschoeley@gmail.com.
 
-Folow us on Twitter: [@ikahhnitsky][ik], [@jschoeley][js].
+Folow us on Twitter: [@ikashnitsky][ik], [@jschoeley][js].
 
 
 [f1]: https://i.imgur.com/OFFShqF.png
